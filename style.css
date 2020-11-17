@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    min-height: 100vh; 
+    text-align: center;
+}
+
+.header{
+    height: 150px;
+    background-color: rgb(204, 72, 94);
+}
+input{
+    margin-bottom: 50px;
+    height: 150px;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(204, 72, 94);
+    border-radius: 50px;
+    color: wheat;
+    box-shadow: 10px 5px 5px gray;
+    
+}
+
+p{
+    font-size: 60px;
+    color: rgb(204, 72, 94);
+    font-weight: bold;
+}
+
