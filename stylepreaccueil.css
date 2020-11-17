@@ -42,6 +42,9 @@ header{
     color: white;
     margin-top: 0px;
 }
+footer{
+    margin bottom:100px;
+}
 * {
     box-sizing: content-box;
 }
