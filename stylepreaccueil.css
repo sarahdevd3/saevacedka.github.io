@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(236, 4, 113);
+}
+h1{
+    font-size:40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.logo
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    width: 4em
+
+}
+h2{
+    font-size:40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 200px
+
+   
+}
