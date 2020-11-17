@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    min-height: 100vh; 
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 150px;
+    background-color: rgb(204, 72, 94);
+    color: wheat;
+    font-size: 50px;
+    font-style: italic;
+    text-align: left;
+}
+input{
+    margin-top: 20px;
+    height: 150px;
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(204, 72, 94);
+    border-radius: 50px;
+    color: wheat;
+    box-shadow: 10px 10px 5px gray;  
+}
+#chrono{
+    width: 150px;
+    border-radius: 50%;
+}
+p{
+    font-size: 60px;
+    color: rgb(204, 72, 94);
+    font-weight: bold;
+}
+.accueil, #page14{
+    font-size: 50px;
+    height: 300px;
+    background-color: rgb(204, 72, 94);
+    color: wheat;
+}
+
+
