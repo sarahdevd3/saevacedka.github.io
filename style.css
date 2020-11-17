@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    min-height: 100vh; 
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(204, 72, 94);
+}
+
+.header{
+    height: 150px;
+    background-color: rgb(204, 72, 94);
+    color: wheat;
+    font-size: 50px;
+    font-style: italic;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+input{
+    margin-top: 20px;
+    height: 150px;
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(173, 19, 45);
+    border-radius: 50px;
+    color: wheat;
+    box-shadow: 10px 10px 5px rgb(247, 244, 244);  
+}
+#chrono{
+    width: 150px;
+    border-radius: 50%;
+}
+p{
+    font-size: 60px;
+    color: wheat;
+    font-weight: bold;
+}
+.accueil, #page14{
+    font-size: 80px;
+    min-height: 100vh;
+    background-color: rgb(204, 72, 94);
+    color: wheat;
+}
+a{
+    color: wheat;
+}
+form{
+    background-color: rgb(204, 72, 94);
+}
+#page0{
+    background-color: rgb(204, 72, 94);
+}
+
+
