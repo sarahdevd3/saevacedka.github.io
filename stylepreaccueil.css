@@ -1,7 +1,7 @@
 body
 {
     background-color: rgb(236, 4, 113);
-  
+    text-align: center;
 }
 h1{
     font-size:40px;
@@ -11,20 +11,40 @@ h1{
 }
 
 .logo
-{
+{   width: 100%;
+    border:solid whitesmoke;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 150px;
+    margin-top: 100px;
+    margin-bottom: 100px;
     width: 9em
 
 }
 
-h2{
+p{
     font-size:40px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
-    margin-top: 200px
+    margin-bottom:0px;
+    margin-top: 110px;
+}
 
-   
+h2{
+    font-size:30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 0px;
+}
+header{
+    
+    font-size:45px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 0px;
+}
+* {
+    box-sizing: content-box;
 }
