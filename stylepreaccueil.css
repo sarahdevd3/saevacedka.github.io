@@ -20,16 +20,17 @@ h1{
 }
 
 button {
-   width: 100%;
-    border:solid whitesmoke;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    width: 7em
+  margin-top: 60px;
+    line-height: 60px;
+    font-weight: bold;
+    padding: 0 40px;
     background-color: fuchsia;
     border: none;
     border-radius: 15px;
+  }
+  button:hover {
+    background: fuchsia;
+  }
   }
   button:hover {
     background: fuchsia;
