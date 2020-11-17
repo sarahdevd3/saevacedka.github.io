@@ -1,0 +1,80 @@
+/*GENERAL*/
+
+html{
+    background-image: url(images/rapclip.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    min-height: 100vh;
+}
+.container{
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 20% 35% 15% 20% 10%; 
+    min-height: 100vh; 
+}
+.principal{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 5;
+}
+.footer{
+    display: flex;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    background-color:transparent;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+.copyright{
+    text-align: center;
+    width: 50%;
+}
+.mentions{
+    text-align: center;
+    width: 50%;
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    display: flex;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height:200px;
+}
+.bouton{
+    display: flex;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    height: 80px;
+    width: 200px;
+    background-color:transparent;
+    color: rgb(112, 6, 6);
+    border-radius: 48px;
+    font-size: 26px;
+    box-shadow:6px 6px 6px rgb(112, 6, 6);
+    font-weight: bold;
+}
+.bouton :hover{
+    color: wheat;
+}
+
+
+
