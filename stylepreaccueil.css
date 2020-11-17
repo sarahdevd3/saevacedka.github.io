@@ -19,10 +19,11 @@ h1{
 }
 
 button {
+    
     margin-top: 60px;
     line-height: 60px;
     font-weight: bold;
-    padding: 0 40px;
+    padding: 0px;
     background-color: fuchsia;
     border: none;
     border-radius: 15px;
