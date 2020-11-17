@@ -1,0 +1,48 @@
+body
+{
+    background-color: rgb(236, 4, 113);
+}
+h1{
+    font-size:40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.logo
+{   border: solid 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    width: 9em
+
+}
+
+p{
+    font-size:40px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-bottom:0px;
+    margin-top: 110px;
+}
+
+h2{
+    font-size:30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 0px;
+}
+header{
+    
+    font-size:45px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 0px;
+}
+* {
+    box-sizing: border-box;
+}
