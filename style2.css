@@ -1,0 +1,43 @@
+/* Desktop Version */
+html {
+  background-size: 100vh 100vw;
+  background-repeat: no-repeat;
+}
+body {
+  text-align: center;
+  background-color: wheat;
+}
+.pics {
+  display: flex;
+  flex-direction: column;
+}
+.Chaise {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.mur {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.button {
+  display: flex;
+  align-self: center;
+  justify-self: flex-end;
+  margin-top: auto;
+}
+button {
+    margin-top: 60px;
+    line-height: 60px;
+    font-weight: bold;
+    padding: 0 40px;
+    background-color: fuchsia;
+    border: none;
+    border-radius: 15px;
+  }
+  button:hover {
+    background: fuchsia;
+  }
