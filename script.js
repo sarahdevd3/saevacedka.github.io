@@ -16,7 +16,7 @@
     var pages = [page0, page1, page2, page3, page4, page5, page6, page7, page8, page9, page10, page11, page12, page13, page14];
     var chrono = document.getElementById('chrono');
     var etat = 'start';
-    var duree = 30; 
+    var duree = 10; 
     var dureePause =10;
     var n = 1; //pour suivre le div en cours
 
