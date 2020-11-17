@@ -12,13 +12,13 @@ body {
   flex-direction: column;
 }
 .Chaise {
-  width: 300px;
+  width:auto;
   display: flex;
   flex-direction: column;
   align-self: center;
 }
 .mur {
-  width: 400px;
+  width:auto;
   display: flex;
   flex-direction: column;
   align-self: center;
